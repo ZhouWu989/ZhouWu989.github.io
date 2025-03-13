@@ -10,7 +10,9 @@ redirect_from:
 
 # Professional Profile  
 🔍 **Former Affiliations**: Alibaba Group (AI Researcher), iFLYTEK 
+
 💻 **Current**: Independent Researcher & Founder of Eryuan Digital Technology
+
 🌐 **Areas of Interest**:  
 - Large Language Models (LLMs), Agents, and Knowledge Graphs
 - 3D Gaussian Splatting (3DGS) & 4DGS and Derivative Applications:
@@ -44,6 +46,7 @@ redirect_from:
 # 🔗 Contact & Access  
 📧 **Email**: chouwu8sone@gmail.com  
 🔗 **GitHub**: [ZhouWu989](https://github.com/ZhouWu989)
+
 📄 **Full CV**: [Download PDF](../assets/ZhouWu-CV.pdf)   
 
 ---
