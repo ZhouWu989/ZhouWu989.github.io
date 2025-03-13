@@ -17,9 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+### **Professional Profile**  
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+**Affiliations**  
+🔍 Former Researcher at **Alibaba Group** and **iFLYTEK**  
+🚀 Current: Independent Researcher & Founder of 3D Vision Tech Startup  
+
+**Focus Areas**  
+
+- 3D Deep Learning Architecture Design  
+- Multimodal Understanding Systems  
+- Neural Scene Representation Learning  
+
+---
+
+### **Research Expertise**  
+
+I bridge **3D Vision** and **Multimodal AI**, with core technical directions in:  
+
+- **Generative 3D Vision Architectures**  
+  Neural Radiance Fields (NeRF) & 3D-GAN innovations  
+- **Neural Scene Representation Learning**  
+  Light-weight scene encoding frameworks  
+- **Vision-Language Grounding**  
+  Spatial-Aware Multimodal Fusion  
+
+**Cross-domain Exploration**  
+
+- Medical Imaging Analysis  
+- Robot Spatial Intelligence  
+
+---
+
+### **Recent Publications**  
+
+**Under Review** at Top-tier Conferences:  
+
+| Conference        | Category         | Focus Area                  |
+| ----------------- | ---------------- | --------------------------- |
+| IJCAI (CCF-A)     | AI Foundations   | 3D Scene Understanding      |
+| KDD (ACM SIGKDD)  | Data Science     | Multimodal Data Fusion      |
+| ACM Multimedia    | Media AI         | 3D-Audio-Text Alignment     |
+| NeurIPS (Core A*) | Machine Learning | Neural Scene Representation |
+
+---
+
+### **Contact & Access**  
+
+📧 **chouwu8sone@gmail.com**  
+🔗 **GitHub**: [ZhouWu989](https://github.com/ZhouWu989)  
+📄 **CV**: [Full Resume](../assets/ZhouWu-CV.pdf)  
+
+---
+
+### **Technical Footprint**  
+
+```text
+3D Vision | Multimodal Fusion | Neural Rendering 
+Generative Models | Spatial AI | Computer Graphics 
+
+```
 
 
 # 🔥 News
