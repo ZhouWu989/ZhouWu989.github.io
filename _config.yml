@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhou Wu"
-description              : "Focused on 3D Deep Learning & Multimodal Understanding"
+description              : # ""
 repository               : "https://zhouwu989.github.io/ZhouWu.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Individual Researcher"
   location         : "Shanghai, China"
-  employer         : "Eryuan Digital Technology"
+  employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "chouwu8sone@gmail.com"
