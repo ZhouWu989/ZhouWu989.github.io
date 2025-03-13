@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🔍 Professional Profile  
-🔍 **Former Affiliations**: Alibaba Group (AI Researcher), iFLYTEK, TikTok
+⚙️ **Former Affiliations**: Alibaba Group (AI Researcher), iFLYTEK, TikTok
 
 💻 **Current**: Independent Researcher & Founder of Eryuan Digital Technology
 
