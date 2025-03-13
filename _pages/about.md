@@ -26,10 +26,11 @@ redirect_from:
 
 | Conference        | Category         | Focus Area                  |
 | ----------------- | ---------------- | --------------------------- |
-| IJCAI (CCF-A)     | AI Foundations   | 3D Scene Understanding      |
 | KDD (ACM SIGKDD)  | Data Science     | Multimodal Data Fusion      |
 | ACM Multimedia    | Media AI         | 3D-Audio-Text Alignment     |
 | NeurIPS (Core A*) | Machine Learning | Neural Scene Representation |
+
+Li, C., Zhao, X., Zhang, J., Zhang, X., & Wu, Z. (2025). MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering. arXiv preprint arXiv:2502.16486.
 
 ---
 
