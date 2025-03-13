@@ -20,6 +20,7 @@ redirect_from:
 
 # Recent Publications  
 **Under Review at Top-tier Conferences**:  
+
 | Conference        | Category         | Focus Area                  |
 | ----------------- | ---------------- | --------------------------- |
 | IJCAI (CCF-A)     | AI Foundations   | 3D Scene Understanding      |
