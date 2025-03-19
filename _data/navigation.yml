@@ -3,8 +3,8 @@ main:
   - title: "Minigames"
     url: "../_pages/roulette.html"
 
-#   - title: "News"
-#     url: "/#-news"
+  - title: "Miscellaneous"
+    url: "../_pages/Miscellaneous.md"
 
 #   - title: "Publications"
 #     url: "/#-publications"
