@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🔍 Professional Profile  
-⚙️ **Former Affiliations**: Alibaba Group (AI Researcher), iFLYTEK, TikTok
+⚙️ **Former Affiliations**: Alibaba, iFLYTEK, TikTok
 
 💻 **Current**: Independent Researcher & Founder of Eryuan Digital Technology
 
@@ -104,7 +104,7 @@ Programming: Python, C++, CUDA
 **Keywords:** Transformer optimization, multilingual NLP, model lightweighting, industrial deployment.  
 
 
-**Alibaba Group | Algorithm Engineer**  
+**Alibaba | Algorithm Engineer**  
 **Nov 2023 – Dec 2024**  
 **Mentors:** Wang Yingfu, [Li Yangyan](https://yangyan.li/)  
 - **Core Project:** Participated in the **AMap 2D-to-3D map upgrade**, leveraging **3D Gaussian Scattering (3DGS)** for photorealistic real-time rendering.  
