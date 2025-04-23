@@ -1,10 +1,10 @@
 # main links links
-main:
-  - title: "Minigames"
-    url: "../_pages/roulette.html"
+# main:
+#   - title: "Minigames"
+#     url: "../_pages/roulette.html"
 
-  - title: "Miscellaneous"
-    url: "../_pages/Miscellaneous.md"
+#   - title: "Miscellaneous"
+#     url: "../_pages/Miscellaneous.md"
 
 #   - title: "Publications"
 #     url: "/#-publications"
